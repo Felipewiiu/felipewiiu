@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Eu estou atualmente aprendendo javascript para backend
+- 🌱 Eu estou atualmente aprendendo React js
 - 🎢 Já tenho conhecimento em:
 
   HTML, 
