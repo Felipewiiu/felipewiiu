@@ -9,7 +9,8 @@
   CSS, 
   Javascript,
   Java,
-  SQL Server
+  SQL Server,
+  React js
   
   <div align="center">
   <a href="https://www.linkedin.com/in/felipeadmy/">
