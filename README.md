@@ -8,9 +8,12 @@
   HTML, 
   CSS, 
   Javascript,
+  typescript,
+  sass,
   Java,
   SQL Server,
-  React js
+  React js.
+  Python,
   
   <div align="center">
   <a href="https://www.linkedin.com/in/felipeadmy/">
