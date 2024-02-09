@@ -1,21 +1,18 @@
-  ## Olá eu sou o Felipe santa cruz 👋
+  ## Olá eu sou o Felipe oliveira 
 
 
 
-- 🌱 Eu estou atualmente aprendendo React js
-- 🎢 Já tenho conhecimento em:
+Sou Graduado em Rede de computadores pela Universidade Unigranrio e atualmente estou dedicado à minha pós-graduação em Arquitetura e Desenvolvimento Java pela Fiap. Além disso, me considero um eterno estudante em busca de aprimoramento profissional.
 
-  HTML, 
-  CSS, 
-  Javascript,
-  typescript,
-  sass,
-  Java,
-  SQL Server,
-  React js.
-  Python,
+<p>
+Sou especialista em desenvolvimento de interfaces de usuário, utilizando a ferramenta Figma para criar designs intuitivos e atraentes. Tenho experiência na implementação de Single Page Applications (SPAs) usando React JS, combinado com TypeScript para garantir um código mais seguro e legível. Além disso, estou familiarizado com bibliotecas essenciais como React Router Dom, Recoil para gerenciamento de estado e Axios para comunicação eficiente com o back-end.
+
+No que diz respeito ao desenvolvimento de APIs, possuo expertise na construção de APIs robustas e escaláveis utilizando Java com Spring Boot. Minha experiência inclui a utilização do ORM Hibernate para facilitar a integração com o banco de dados e garantir a consistência dos dados. Sempre sigo o padrão de arquitetura MVC para manter meus projetos organizados e de fácil manutenção.
+
+Além disso, possuo habilidades em resolver problemas complexos, trabalhar em equipe e comunicar efetivamente com todas as partes interessadas. Estou constantemente atualizando minhas habilidades e aprendendo novas tecnologias para oferecer as melhores soluções para os projetos em que estou envolvido.
+</p>
   
-  <div align="center">
+  <div align="left">
   <a href="https://www.linkedin.com/in/felipeadmy/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipewiiu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipewiiu&layout=compact&langs_count=7&theme=dracula"/>
