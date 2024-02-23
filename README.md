@@ -38,5 +38,7 @@ Além disso, possuo habilidades em resolver problemas complexos, trabalhar em eq
   <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="50px">
     
 </p>
+
+https://img.shields.io/badge/Linkedin-you_like-blue
   
   
