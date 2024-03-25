@@ -7,7 +7,7 @@ Sou Graduado em Rede de computadores pela Universidade Unigranrio e atualmente e
 <p>
 Sou especialista em desenvolvimento de interfaces de usuário, utilizando a ferramenta Figma para criar designs intuitivos e atraentes. Tenho experiência na implementação de Single Page Applications (SPAs) usando React JS, combinado com TypeScript para garantir um código mais seguro e legível. Além disso, estou familiarizado com bibliotecas essenciais como React Router Dom, Recoil para gerenciamento de estado e Axios para comunicação eficiente com o back-end.
 
-No que diz respeito ao desenvolvimento de APIs, possuo expertise na construção de APIs robustas e escaláveis utilizando Java com Spring Boot. Minha experiência inclui a utilização do ORM Hibernate para facilitar a integração com o banco de dados e garantir a consistência dos dados. Sempre sigo o padrão de arquitetura MVC para manter meus projetos organizados e de fácil manutenção.
+Possuo expertise na construção de APIs robustas e escaláveis utilizando Java com Spring Boot. Minha experiência inclui a utilização do ORM Hibernate para facilitar a integração com o banco de dados e garantir a consistência dos dados. Sempre sigo o padrão de arquitetura MVC para manter meus projetos organizados e de fácil manutenção.
 
 Além disso, possuo habilidades em resolver problemas complexos, trabalhar em equipe e comunicar efetivamente com todas as partes interessadas. Estou constantemente atualizando minhas habilidades e aprendendo novas tecnologias para oferecer as melhores soluções para os projetos em que estou envolvido.
 </p>
