@@ -36,7 +36,7 @@ Além disso, possuo habilidades em resolver problemas complexos, trabalhar em eq
   <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="50px">
   <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" width="50px">
   <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="50px">
-  <img src="https://icons8.com/icon/f8puwbhs0kUR/nginx-accelerates-content-and-application-delivery-improves-security" width="50px">
+  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-nginx-accelerates-content-and-application-delivery-improves-security-logo-shadow-tal-revivo.png" alt="external-nginx-accelerates-content-and-application-delivery-improves-security-logo-shadow-tal-revivo"/>
     
 </p>
 
