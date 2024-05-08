@@ -36,7 +36,7 @@ Além disso, possuo habilidades em resolver problemas complexos, trabalhar em eq
   <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="50px">
   <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" width="50px">
   <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="50px">
-  <img src="[https://github.com/simple-icons/simple-icons/blob/develop/icons/nginx.svg](https://www.flaticon.com/free-icon/programing_15484308?term=nginx&page=1&position=2&origin=search&related_id=15484308)" width="50px">
+  <img src="https://icons8.com/icon/f8puwbhs0kUR/nginx-accelerates-content-and-application-delivery-improves-security" width="50px">
     
 </p>
 
