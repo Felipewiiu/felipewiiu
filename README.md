@@ -36,6 +36,7 @@ Além disso, possuo habilidades em resolver problemas complexos, trabalhar em eq
   <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="50px">
   <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" width="50px">
   <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="50px">
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nginx.svg" width="50px">
     
 </p>
 
