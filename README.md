@@ -13,18 +13,19 @@ Frontend com React Js
 </p>
 
 <h2> HABILIDADES E IDIOMAS</h2>
-<p>
-Linguagens de Programação: Java, javascript/Typescript
--Sistemas Operacionais: Linux / Windowns
-- Banco de Dados: Mysql, Postgres e MongoDb
-- Redes: Configuração básica, protocolos, acesso remoto via ssh
-- Frameworks: Spring boot
-- Infraestrutura : Docker
-- Cloud: AWS, EC2, ECS, ECR e RDS
-- Servidor Web: Nginx
-- Documentação: Swagger
-- Idiomas: Inglês técnico.
-</p>
+<ul>
+  <li>Linguagens de Programação: Java, JavaScript/TypeScript</li>
+  <li>Sistemas Operacionais: Linux / Windows</li>
+  <li>Banco de Dados: MySQL, PostgreSQL e MongoDB</li>
+  <li>Redes: Configuração básica, protocolos, acesso remoto via SSH</li>
+  <li>Frameworks: Spring Boot</li>
+  <li>Infraestrutura: Docker</li>
+  <li>Cloud: AWS, EC2, ECS, ECR e RDS</li>
+  <li>Servidor Web: Nginx</li>
+  <li>Documentação: Swagger</li>
+  <li>Idiomas: Inglês técnico</li>
+</ul>
+
 <br>
   
   <div align="left">
