@@ -2,7 +2,7 @@
 
 
 
-Sou Graduado em Rede de computadores pela Universidade Unigranrio e atualmente estou dedicado à minha pós-graduação em Arquitetura e Desenvolvimento Java pela Fiap. Além disso, me considero um eterno estudante em busca de aprimoramento profissional.
+Pós graduando em Arquitetura e Desenvolvimento Java pela Fiap. Além disso, me considero um eterno estudante em busca de aprimoramento profissional.
 
 <p>
 Desenvolvedor backend, com especialidade na linguagem JAVA com Spring boot. Possuo experiência na
