@@ -5,11 +5,11 @@
 Sou Graduado em Rede de computadores pela Universidade Unigranrio e atualmente estou dedicado à minha pós-graduação em Arquitetura e Desenvolvimento Java pela Fiap. Além disso, me considero um eterno estudante em busca de aprimoramento profissional.
 
 <p>
-Sou especialista em desenvolvimento de interfaces de usuário, utilizando a ferramenta Figma para criar designs intuitivos e atraentes. Tenho experiência na implementação de Single Page Applications (SPAs) usando React JS, combinado com TypeScript para garantir um código mais seguro e legível. Além disso, estou familiarizado com bibliotecas essenciais como React Router Dom, Recoil para gerenciamento de estado e Axios para comunicação eficiente com o back-end.
-
-Possuo expertise na construção de APIs robustas e escaláveis utilizando Java com Spring Boot. Minha experiência inclui a utilização do ORM Hibernate para facilitar a integração com o banco de dados e garantir a consistência dos dados.
-
-Além disso, possuo habilidades em resolver problemas complexos, trabalhar em equipe e comunicar efetivamente com todas as partes interessadas. Estou constantemente atualizando minhas habilidades e aprendendo novas tecnologias para oferecer as melhores soluções para os projetos em que estou envolvido.
+Desenvolvedor backend, com especialidade na linguagem JAVA com Spring boot. Possuo experiência na
+construção de APIs REST utilizando banco de dados do tipo SQL ou NoSQL. Preparo a infraestrutura como código
+usando a tecnologia Docker para containerizar a aplicação e instala-la em servidores on-premises ou utilizando
+serviços em Cloud como a AWS com o EC2, ECS e ECR. Possuo também habilidades em desenvolvimento
+Frontend com React Js
 </p>
 <br>
   
