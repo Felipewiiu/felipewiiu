@@ -11,6 +11,20 @@ usando a tecnologia Docker para containerizar a aplicação e instala-la em serv
 serviços em Cloud como a AWS com o EC2, ECS e ECR. Possuo também habilidades em desenvolvimento
 Frontend com React Js
 </p>
+
+<h2> HABILIDADES E IDIOMAS</h2>
+<p>
+Linguagens de Programação: Java, javascript/Typescript
+Sistemas Operacionais: Linux / Windowns
+Banco de Dados: Mysql, Postgres e MongoDb
+Redes: Configuração básica, protocolos, acesso remoto via ssh
+Frameworks: Spring boot
+Infraestrutura : Docker
+Cloud: AWS, EC2, ECS, ECR e RDS
+Servidor Web: Nginx
+Documentação: Swagger
+Idiomas: Inglês técnico.
+</p>
 <br>
   
   <div align="left">
