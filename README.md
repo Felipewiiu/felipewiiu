@@ -15,7 +15,7 @@ Frontend com React Js
 <h2> HABILIDADES E IDIOMAS</h2>
 <p>
 Linguagens de Programação: Java, javascript/Typescript
-- Sistemas Operacionais: Linux / Windowns
+-Sistemas Operacionais: Linux / Windowns
 - Banco de Dados: Mysql, Postgres e MongoDb
 - Redes: Configuração básica, protocolos, acesso remoto via ssh
 - Frameworks: Spring boot
