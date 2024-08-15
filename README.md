@@ -1,7 +1,6 @@
 <h2>Olá eu sou o Felipe oliveira </h2>
 
 
-
 Pós graduando em Arquitetura e Desenvolvimento Java pela Fiap. Além disso, me considero um eterno estudante em busca de aprimoramento profissional.
 
 <p>
@@ -26,14 +25,27 @@ Frontend com React Js
   <li>Idiomas: Inglês técnico</li>
 </ul>
 
-<br>
-  
-  <div align="left">
-  <a href="https://www.linkedin.com/in/felipeadmy/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipewiiu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipewiiu&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
-  <br>
+##
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipewiiu&show_icons=true&bg_color=00000000" height="145" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipewiiu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=00000000&hide_border=false" height="145" alt="languages graph"/>   
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipewiiu&theme=tokyonight-duo" height="145" alt="Felipewiiu" />
+   
+</div>
+
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipewiiu&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Felipewiiu&theme=chartreuse_dark) |
+| :-: | :-: | 
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Felipewiiu&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Felipewiiu&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Felipewiiu&theme=chartreuse_dark&utcOffset=8) |
+| :-: | :-: | :-: | 
+
+
+##
+
+
   
 
     
@@ -56,6 +68,6 @@ Frontend com React Js
      <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Linux-logos-and-brands-those-icons-flat-those-icons.png" alt="external-Linux-logos-and-brands-those-icons-flat-those-icons"/>
 </p>
 
-https://img.shields.io/badge/Linkedin-you_like-blue
+
   
   
