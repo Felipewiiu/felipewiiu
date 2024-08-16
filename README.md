@@ -30,7 +30,7 @@ Frontend com React Js
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Felipewiiu&show_icons=true&bg_color=00000000" height="145" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipewiiu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=00000000&hide_border=false" height="145" alt="languages graph"/>   
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipewiiu&theme=tokyonight-duo" height="145" alt="Felipewiiu" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipewiiu&theme=chartreuse_dark" height="145" alt="Felipewiiu" />
    
 </div>
 
