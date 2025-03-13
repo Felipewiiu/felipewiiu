@@ -5,7 +5,7 @@ Pós graduando em Arquitetura e Desenvolvimento Java pela Fiap. Além disso, me 
 
 <p>
 Desenvolvedor backend, com especialidade na linguagem JAVA com Spring boot. Possuo experiência na
-construção de APIs REST utilizando banco de dados do tipo SQL ou NoSQL. Preparo a infraestrutura como código
+construção de APIs REST e Aplicações reativas com Webflux, utilizando banco de dados do tipo SQL ou NoSQL. Preparo a infraestrutura como código
 usando a tecnologia Docker para containerizar a aplicação e instala-la em servidores on-premises ou utilizando
 serviços em Cloud como a AWS com o EC2, ECS e ECR. Possuo também habilidades em desenvolvimento
 Frontend com React Js
