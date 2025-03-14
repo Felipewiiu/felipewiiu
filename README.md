@@ -22,6 +22,7 @@ Frontend com React Js
   <li>Cloud: AWS, EC2, ECS, ECR e RDS</li>
   <li>Servidor Web: Nginx</li>
   <li>Documentação: Swagger</li>
+  <li>Mensageria: RabbitMQ</li>
   <li>Idiomas: Inglês técnico</li>
 </ul>
 
