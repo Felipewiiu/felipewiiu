@@ -1,7 +1,7 @@
 <h2>Olá eu sou o Felipe oliveira </h2>
 
 
-Pós graduando em Arquitetura e Desenvolvimento Java pela Fiap. Além disso, me considero um eterno estudante em busca de aprimoramento profissional.
+Pós graduado em Arquitetura e Desenvolvimento Java pela Fiap. Além disso, me considero um eterno estudante em busca de aprimoramento profissional.
 
 <p>
 Desenvolvedor backend, com especialidade na linguagem JAVA com Spring boot. Possuo experiência na
